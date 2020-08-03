@@ -8,7 +8,7 @@
 :dart: Freelancer <br>
 :mortar_board: Systems Analysis Student <br>
 
-#### What I'm Learning :books:
+#### What I'm Doing :books:
 
 :elephant: Studying PHP's framework Laravel <br>
 :eyeglasses: Starting my study in VueJS <br>
