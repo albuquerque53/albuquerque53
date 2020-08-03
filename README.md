@@ -1,3 +1,5 @@
+<img src="octocat.png" align="right" width="400" height="400">
+
 ### Hello, Github!
 
 #### I'm Gabriel Albuquerque :brazil:
@@ -8,7 +10,7 @@
 
 #### What I'm Learning :books:
 
-:elephant: Learning the PHP's framework Laravel <br>
+:elephant: Studying PHP's framework Laravel <br>
 :eyeglasses: Starting my study in VueJS <br>
 :pencil2: Writing Something...
 
