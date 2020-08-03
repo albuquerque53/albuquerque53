@@ -1,4 +1,4 @@
-<img src="octocat.png" align="right" width="400" height="400">
+<img src="https://github.com/albuquerque53/albuquerque53/blob/master/octocat.png" align="right" width="400" height="400">
 
 ### Hello, Github!
 
