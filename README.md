@@ -11,7 +11,7 @@
 #### What I'm Doing :books:
 
 :elephant: Studying PHP's framework Laravel <br>
-:eyeglasses: Starting my study in VueJS <br>
+:eyeglasses: Studying the front-end framework VueJS <br>
 :pencil2: Writing Something...
 
 #### Meet me at :coffee:
