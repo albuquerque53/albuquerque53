@@ -8,12 +8,6 @@
 :dart: Freelancer <br>
 :mortar_board: Systems Analysis Student <br>
 
-#### What I'm Doing :books:
-
-:elephant: Studying PHP's framework Laravel <br>
-:eyeglasses: Studying the front-end framework VueJS <br>
-:pencil2: Writing Something...
-
 #### Meet me at :coffee:
 
 :pencil: [Medium](https://medium.com/@g4br_) <br>
