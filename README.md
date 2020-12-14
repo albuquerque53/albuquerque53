@@ -8,6 +8,18 @@
 :dart: Freelancer <br>
 :mortar_board: Systems Analysis Student <br>
 
+#### I'm currently doing...
+
+:elephant: Studying the new features of PHP <br>
+:building_construction: Deeping into Design Patterns <br>
+:white_check_mark: Understanding automated tests <br>
+
+### To-do 2021 :tada:
+
+:memo: Develop my own blog <br>
+:iphone: Drop the first relase of my project <br>
+:page_facing_up: Get the LPIC-1 certification
+
 #### Meet me at :coffee:
 
 :pencil: [Medium](https://g4br.medium.com/) <br>
