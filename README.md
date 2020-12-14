@@ -13,6 +13,7 @@
 :elephant: Studying the new features of PHP <br>
 :building_construction: Deeping into Design Patterns <br>
 :white_check_mark: Understanding automated tests <br>
+:robot: Learning about (general) tasks automation
 
 #### To-do 2021 :tada:
 
