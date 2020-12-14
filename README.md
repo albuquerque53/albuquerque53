@@ -8,7 +8,7 @@
 :dart: Freelancer <br>
 :mortar_board: Systems Analysis Student <br>
 
-#### I'm currently doing...
+#### I'm currently doing... :hammer:
 
 :elephant: Studying the new features of PHP <br>
 :building_construction: Deeping into Design Patterns <br>
