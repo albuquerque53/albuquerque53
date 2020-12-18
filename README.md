@@ -18,7 +18,7 @@
 #### To-do 2021 :tada:
 
 :memo: Develop my own blog <br>
-:iphone: Drop the first relase of my project <br>
+:iphone: Drop the first relase of my app <br>
 :page_facing_up: Get the LPIC-1 certification
 
 #### Meet me at :coffee:
