@@ -4,9 +4,9 @@
 
 #### I'm Gabriel Albuquerque :brazil:
 
-:computer: FullStack Developer <br>
+:computer: Back-end Developer <br>
 :dart: Freelancer <br>
-:mortar_board: Systems Analysis Student <br>
+:mortar_board: Graduated in Systems Analysis <br>
 
 #### I'm currently doing... :hammer:
 
