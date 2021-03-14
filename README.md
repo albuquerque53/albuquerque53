@@ -5,21 +5,15 @@
 #### I'm Gabriel Albuquerque :brazil:
 
 :computer: Back-end Developer <br>
-:dart: Freelancer <br>
 :mortar_board: Graduated in Systems Analysis <br>
 
 #### I'm currently doing... :hammer:
 
-:elephant: Studying the new features of PHP <br>
+:computer: Working with PHP <br>
 :building_construction: Deeping into Design Patterns <br>
-:white_check_mark: Understanding automated tests <br>
-:robot: Learning about (general) tasks automation
-
-#### To-do 2021 :tada:
-
-:memo: Develop my own blog <br>
-:iphone: Drop the first relase of my app <br>
-:page_facing_up: Get the LPIC-1 certification
+:wastebasket: Learning and applying clean code <br>
+:white_check_mark: Writing automated tests <br>
+:robot: Venturing into tasks automation
 
 #### Meet me at :coffee:
 
