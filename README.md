@@ -1,4 +1,4 @@
-<img src="https://github.com/albuquerque53/albuquerque53/blob/master/octocat.png" align="right" width="400" height="400">
+<img src="https://qph.fs.quoracdn.net/main-qimg-fe34fd64ad119600d13ec7edaa4c89b9-c" align="right" width="400" height="250">
 
 ### Hello, Github!
 
