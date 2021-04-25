@@ -1,4 +1,4 @@
-<img src="https://qph.fs.quoracdn.net/main-qimg-fe34fd64ad119600d13ec7edaa4c89b9-c" align="right" width="400" height="250">
+<img src="octocat.png" align="right" width="400" height="400">
 
 ### Hello, Github!
 
