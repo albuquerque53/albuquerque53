@@ -11,9 +11,9 @@
 
 :computer: Working with PHP <br>
 :building_construction: Deeping into Design Patterns <br>
-:wastebasket: Learning and applying clean code <br>
+🐹 Learning Go <br>
 :white_check_mark: Writing automated tests <br>
-:robot: Venturing into tasks automation
+🐳 Venturing into Docker
 
 #### Meet me at :coffee:
 
