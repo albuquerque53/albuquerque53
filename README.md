@@ -1,13 +1,10 @@
-<img src="octocat.png" align="right" width="400" height="400">
-
 ### Hello, Github!
 
 #### I'm Gabriel Albuquerque :brazil:
 
 :computer: Back-end Developer <br>
-:mortar_board: Graduated in Systems Analysis <br>
 
-#### I'm currently doing... :hammer:
+#### I'm currently... :hammer:
 
 :computer: Working with PHP <br>
 :building_construction: Deeping into Design Patterns <br>
