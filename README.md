@@ -6,11 +6,11 @@
 
 #### I'm currently... :hammer:
 
-:computer: Working with PHP <br>
+:computer: Working with PHP & Go at [mova.vc](https://mova.vc/) <br>
 :building_construction: Deeping into Design Patterns <br>
-🐹 Learning Go <br>
 :white_check_mark: Writing automated tests <br>
-🐳 Venturing into Docker
+🐳 Venturing into Docker <br>
+✨ Learning something new
 
 #### Meet me at :coffee:
 
