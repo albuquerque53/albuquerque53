@@ -16,4 +16,6 @@
 
 :pencil: [Medium](https://g4br.medium.com/) <br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/gabriel-albuquerque-9a68b21a4/) <br>
-🦊 [GitLab](https://gitlab.com/albuquerque53)
+🦊 [GitLab](https://gitlab.com/albuquerque53) <br>
+:crown: [HackerRank](https://www.hackerrank.com/gabrielalbuquer1) <br>
+:muscle:	[Exercism](https://exercism.org/profiles/albuquerque53)
