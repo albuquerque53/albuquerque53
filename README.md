@@ -3,7 +3,7 @@
 </div>
 
 
-# Hello, Github! 
+# Hello, Github!
 
 
 #### I'm Gabriel Albuquerque :brazil:
@@ -12,11 +12,10 @@
 
 #### I'm currently... :hammer:
 
-:computer: Working with PHP & Go at [mova.vc](https://mova.vc/) <br>
-:building_construction: Deeping into Design Patterns <br>
+:computer: Working with PHP & Go at brazilian fintech [mova.vc](https://mova.vc/) <br>
+:building_construction: Deeping into microservices <br>
 :white_check_mark: Writing automated tests <br>
-🐳 Venturing into Docker <br>
-✨ Learning something new
+🐳 Venturing into Docker & Kubernetes <br>
 
 #### Meet me at :coffee:
 
