@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="mario.gif" align="center" width="620" height="300">
+  <img src="mario.gif" align="center" width="600" height="300">
 </div>
 
 
