@@ -1,23 +1,24 @@
 <div align="center">
-  <img src="mario.gif" align="center" width="600" height="300">
+  <img src="mario.gif" align="center" width="600" height="350">
 </div>
 
 
-# Hello, Github!
+## Hi everyone! :wave:
 
-
-#### I'm Gabriel Albuquerque :brazil:
+### I'm Gabriel Albuquerque :brazil:
 
 :computer: Back-end Developer <br>
+:guitar: Musician <br>
+:books: Eternal student
 
-#### I'm currently... :hammer:
+### For now, I'm currently... :hammer:
 
 :computer: Working with PHP & Go at [mova.vc](https://mova.vc/) <br>
 :building_construction: Deeping into microservices <br>
 :white_check_mark: Writing automated tests <br>
 🐳 Venturing into Docker & Kubernetes <br>
 
-#### Meet me at :coffee:
+### You can meet me at :coffee:
 
 :pencil: [Medium](https://g4br.medium.com/) <br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/gabriel-albuquerque-9a68b21a4/) <br>
