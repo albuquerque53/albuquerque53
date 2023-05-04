@@ -7,14 +7,13 @@
 
 ### I'm Gabriel Albuquerque :brazil:
 
-:computer: Software Engineer <br>
-:guitar: Musician <br>
-:books: Eternal student
+:computer: Software Developer <br>
+🎹 Musician <br>
+:books: Eternal Student
 
 ### For now, I'm currently... :hammer:
 
-:computer: Working with PHP & GO <br>
-:building_construction: Deeping into microservices <br>
+:computer: Working with PHP, Golang and so on... <br>
 :white_check_mark: Writing automated tests <br>
 🐳 Venturing into Docker & Kubernetes <br>
 
