@@ -19,6 +19,6 @@
 
 ### You can meet me at :coffee:
 
-:pencil: [Medium](https://g4br.medium.com/) <br>
-:briefcase: [LinkedIn](https://www.linkedin.com/in/gabriel-albuquerque-9a68b21a4/) <br>
+:pencil: [Medium](https://albuquerque53.medium.com/) <br>
+:briefcase: [LinkedIn](https://www.linkedin.com/in/albuquerque53/) <br>
 🦊 [GitLab](https://gitlab.com/albuquerque53) <br>
