@@ -9,11 +9,11 @@
 
 :computer: Software Developer <br>
 🎹 Musician <br>
-:books: Eternal Student
+:books: Constant leaner
 
 ### For now, I'm currently... :hammer:
 
-:computer: Working with PHP, Go and so on... <br>
+:computer: Working with PHP and Go<br>
 :white_check_mark: Writing tests <br>
 🐳 Venturing into Docker & Kubernetes <br>
 
