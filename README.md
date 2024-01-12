@@ -14,7 +14,6 @@
 ### For now, I'm currently... :hammer:
 
 :computer: Working with PHP and Go<br>
-:white_check_mark: Writing tests <br>
 🐳 Venturing into Docker & Kubernetes <br>
 
 ### You can meet me at :coffee:
