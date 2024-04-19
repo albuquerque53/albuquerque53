@@ -12,7 +12,7 @@
 
 ### For now, I'm currently... :hammer:
 
-:computer: Working with PHP/Laravel and Go<br>
+🖥️ Working with PHP/Laravel and Go<br>
 🐳 Venturing into Docker & Kubernetes <br>
 🏗️ Learning more about Cloud Computing and AWS <br>
 
