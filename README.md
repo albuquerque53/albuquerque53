@@ -14,7 +14,7 @@
 
 🖥️ Working with PHP/Laravel and Go<br>
 🐳 Venturing into Docker & Kubernetes <br>
-🏗️ Learning more about Cloud Computing and AWS <br>
+🏗️ Learning more about Cloud Computing, AWS and GCP <br>
 
 ### You can reach me at :coffee:
 
